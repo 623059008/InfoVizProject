@@ -1,4 +1,4 @@
-## The key factor which impacts the house price in Kansas City
+## The key factor impacts the house price in Kansas City
 
 > Github: https://github.com/623059008/InfoVizProject
 >
